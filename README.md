@@ -5,7 +5,7 @@ catalogues papers I've read from that source and others online.
 
 ## Distributed Systems
 
-* [In search of an understandable consensus algorithm](http://ramcloud.stanford.edu/raft.pdf)(Raft)
+* [In search of an understandable consensus algorithm](http://ramcloud.stanford.edu/raft.pdf) (Raft)
 
 ## Languages
 
