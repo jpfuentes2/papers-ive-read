@@ -19,6 +19,7 @@ catalogues papers I've read from that source and others online.
 * [The essence of functional programming](http://www.eliza.ch/doc/wadler92essence_of_FP.pdf)
 * [Theorems for free!](http://ttic.uchicago.edu/~dreyer/course/papers/wadler.pdf)
 * [Asynchronous Functional Reactive Programming for GUIs](http://people.seas.harvard.edu/~chong/pubs/pldi13-elm.pdf)
+* [QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs](http://www.eecs.northwestern.edu/~robby/courses/395-495-2009-fall/quick.pdf)
 
 ## Algorithms
 
