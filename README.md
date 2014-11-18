@@ -8,8 +8,9 @@ catalogues papers I've read from that source and others online.
 * [In search of an understandable consensus algorithm](http://ramcloud.stanford.edu/raft.pdf) (Raft)
 * [SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol](http://www.cs.cornell.edu/~asdas/research/dsn02-swim.pdf)
 
-## Runtimes
+## OS / Runtimes / Kernel
 
+* [Quantifying The Cost of Context Switch](http://www.cs.rochester.edu/u/cli/research/switch.pdf)
 * [Analysis of the Go runtime scheduler](http://www.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf)
 
 ## Functional Programming
