@@ -25,3 +25,7 @@ catalogues papers I've read from that source and others online.
 ## Algorithms
 
 * [HyperLogLog in Practice: Algorithmic Engineering of a State of The Art Cardinality Estimation Algorithm](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/40671.pdf)
+
+## Misc
+
+[Worlds: Controlling the Scope of Side Effects](http://vpri.org/pdf/rn2008001_worlds.pdf)
