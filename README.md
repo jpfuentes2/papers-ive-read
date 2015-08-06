@@ -28,4 +28,4 @@ catalogues papers I've read from that source and others online.
 
 ## Misc
 
-[Worlds: Controlling the Scope of Side Effects](http://vpri.org/pdf/rn2008001_worlds.pdf)
+* [Worlds: Controlling the Scope of Side Effects](http://vpri.org/pdf/rn2008001_worlds.pdf)
