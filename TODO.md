@@ -6,3 +6,5 @@
 * [Understanding Network Failures in Data Centers: Measurement, Analysis, and Implications](http://conferences.sigcomm.org/sigcomm/2011/papers/sigcomm/p350.pdf)
 * [Automated Software Transplantation](http://crest.cs.ucl.ac.uk/autotransplantation/downloads/autotransplantation.pdf)
 * [Composing contrats: an adventure in financial engineering](http://research.microsoft.com/en-us/um/people/simonpj/Papers/financial-contracts/contracts-icfp.pdf)
+* [A Conflict-Free Replicated JSON Datatype](http://arxiv.org/abs/1608.03960)
+* [AllConcur: Leaderless Concurrent Atomic Broadcast (Extended Version)](http://128.84.21.199/abs/1608.05866)
