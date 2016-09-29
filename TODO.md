@@ -10,3 +10,4 @@
 * [AllConcur: Leaderless Concurrent Atomic Broadcast (Extended Version)](http://128.84.21.199/abs/1608.05866)
 * http://www.hbs.edu/faculty/Pages/item.aspx?num=7842
 * http://struggle.ws/pdfs/tyranny.pdf
+* http://www.cs.cmu.edu/~15-749/READINGS/required/cas/tridgell96.pdf
